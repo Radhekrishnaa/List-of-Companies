@@ -62,3 +62,4 @@ You can clone this and add your own personal notes and remove mine.
 | 52  | GRAB                 | Good company                                                       |
 | 53  | ATLASSIAN            |                                                                    |
 | 54  | UIPath               | 42 LPA (APPROACHABLE)                                              |
+| 55  |Tower Research Captial|                                                                    |
