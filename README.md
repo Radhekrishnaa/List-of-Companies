@@ -24,7 +24,7 @@ You can clone this and add your own personal notes and remove mine.
 | 14  | Grofers              |                                                                    |
 | 15  | Splashlearn          |                                                                    |
 | 16  | Interviewbit         |                                                                    |
-| 17  | Flipkart             |  CTC: 32 LPA                                                                  |
+| 17  | Flipkart             |  CTC: 32 LPA                                                       |
 | 18  | Paypal               |                                                                    |
 | 19  | Walmart              |                                                                    |
 | 20  | OYO                  |                                                                    |
