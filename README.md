@@ -10,7 +10,7 @@ You can clone this and add your own personal notes and remove mine.
 | --- | -------------------- | ------------------------------------------------------------------ |
 | 1   | CureFit              |                                                                    |
 | 2   | Goldman Sachs        |                                                                    |
-| 3   | SalesForce           |                                                                    |
+| 3   | SalesForce           |   CTC: 35 to 36 LPA and Inhand:                                                                  |
 | 4   | SAP Labs             |                                                                    |
 | 5   | Qualcomm             |                                                                    |
 | 6   | Paytm                |                                                                    |
