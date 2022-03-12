@@ -64,4 +64,4 @@ You can clone this and add your own personal notes and remove mine.
 | 54  | UIPath               | 42 LPA (APPROACHABLE)                                              |
 | 55  |Tower Research Captial|  CTC: 38 to 51 LPA and Inhand: 25 to 30 LPA                        |
 | 56  | Microsoft            |  CTC: 44 LPA and Inhand: 15 to 16 LPA + Good Stocks Option         |
-| 57  | Google               |  CTC: 40 LPA and Inhand: 15 to 18 LPA
+| 57  | Google               |  CTC: 40 LPA and Inhand: 15 to 18 LPA + Good Stocks Option   
