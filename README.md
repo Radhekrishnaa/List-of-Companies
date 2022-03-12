@@ -18,7 +18,7 @@ You can clone this and add your own personal notes and remove mine.
 | 8   | Adobe                |                                                                    |
 | 9   | Linkedin             |                                                                    |
 | 10  | Desutsche Bank       |                                                                    |
-| 11  | Sprinklr             |  CTC: 35 to 40                                                     |
+| 11  | Sprinklr             |  CTC: 35 to 40 LPA                                                     |
 | 12  | Dunzo                |                                                                    |
 | 13  | Shopee VISA problem  |                                                                    |
 | 14  | Grofers              |                                                                    |
