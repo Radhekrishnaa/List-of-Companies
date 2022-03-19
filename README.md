@@ -67,4 +67,4 @@ You can clone this and add your own personal notes and remove mine.
 | 57  | Google               |  CTC: 40 LPA and Inhand: 15 to 18 LPA + Good Stocks Option         |
 | 58  | Uber                 |  CTC: 40 LPA                                                       |
 | 59  | Apple                |  CTC: 33 to 35 LPA                                                 |  
-| 60  | DE.SHAW & Co         |  CTC: 31 to 32 LPA
+| 60  | DE.SHAW & Co         |  CTC: 31 to 32 LPA                                                 |
