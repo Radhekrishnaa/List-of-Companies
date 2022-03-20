@@ -6,7 +6,7 @@ This is a list of 50+ companies, for future placement &amp; internships
 
 You can clone this and add your own personal notes and remove mine.
 
-|Sr.no | COMPANIES            | Note                                                               |
+|Sr.no | COMPANIES           | Note                                                               |
 | --- | -------------------- | ------------------------------------------------------------------ |
 | 1   | CureFit              |                                                                    |
 | 2   | Goldman Sachs        |                                                                    |
