@@ -44,7 +44,7 @@ You can clone this and add your own personal notes and remove mine.
 | 34  | Siemens Healthineers |                                                                    |
 | 35  | onedirect            |                                                                    |
 | 36  | inmobi               |                                                                    |
-| 37  | Rippling             | 30 LPA                                                             |
+| 37  | Rippling             |  30 LPA                                                            |
 | 38  | Rubrik               |                                                                    |
 | 39  | Compass              |                                                                    |
 | 40  | Cohesity             |                                                                    |
