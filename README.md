@@ -2,7 +2,7 @@
 ## Companies-for-internship-&-placement
 ### For-internships-visit: [Angel.co](https://angel.co/)
 
-This is a list of 50+ companies, for future placement &amp; internships
+This is a list of 70+ companies, for future placement &amp; internships
 
 You can clone this and add your own personal notes and remove mine.
 
