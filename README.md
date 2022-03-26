@@ -69,4 +69,4 @@ You can clone this and add your own personal notes and remove mine.
 | 59  | Apple                |  CTC: 33 to 35 LPA                                                 |  
 | 60  | DE.SHAW & Co         |  CTC: 31 to 32 LPA                                                 |
 | 61  | Cognizant or Tiology Inovations| Hard Coding test rounds and here your branch & Cgpa doesn't matter. 30LPA Inhand |
-| 62  | Media.Net            |           |
+| 62  | Media.Net            |  CTC: 30 LPA                                               |
