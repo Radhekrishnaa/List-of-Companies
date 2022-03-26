@@ -15,7 +15,7 @@ You can clone this and add your own personal notes and remove mine.
 | 5   | Qualcomm             |                                                                    |
 | 6   | Paytm                |                                                                    |
 | 7   | Telstra              |                                                                    |
-| 8   | Adobe                |  CTC: 24 LPA                                                                  |
+| 8   | Adobe                |  CTC: 24 LPA                                                       |
 | 9   | Linkedin             |                                                                    |
 | 10  | Desutsche Bank       |                                                                    |
 | 11  | Sprinklr             |  CTC: 35 to 40 LPA and Inhand: 30 LPA                              |
