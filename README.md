@@ -28,7 +28,7 @@ You can clone this and add your own personal notes and remove mine.
 | 18  | Paypal               |                                                                    |
 | 19  | Walmart              |                                                                    |
 | 20  | OYO                  |                                                                    |
-| 21  | Uber                 |                                                                    |
+| 21  | Urban Company                |                                                                    |
 | 22  | Hotstar              |                                                                    |
 | 23  | Netflix              |                                                                    |
 | 24  | Sharechat            |                                                                    |
