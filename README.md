@@ -8,7 +8,7 @@ You can clone this and add your own personal notes and remove mine.
 
 |Sr.no | COMPANIES           | Note                                                               |
 | --- | -------------------- | ------------------------------------------------------------------ |
-| 1   | CureFit              |   CTC: 27 LPA                                                                  |
+| 1   | CureFit              |   CTC: 27 LPA                                                      |
 | 2   | Goldman Sachs        |                                                                    |
 | 3   | SalesForce           |   CTC: 40 LPA                                                      |
 | 4   | SAP Labs             |                                                                    |
