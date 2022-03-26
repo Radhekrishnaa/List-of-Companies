@@ -68,4 +68,4 @@ You can clone this and add your own personal notes and remove mine.
 | 58  | Uber                 |  CTC: 40 LPA                                                       |
 | 59  | Apple                |  CTC: 33 to 35 LPA                                                 |  
 | 60  | DE.SHAW & Co         |  CTC: 31 to 32 LPA                                                 |
-| 61  |
+| 61  | Cognizant            |
